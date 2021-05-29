@@ -4,7 +4,6 @@ In a PUBG game, up to 100 players start in each match (matchId). Players can be 
 
 You are provided with a large number of anonymized PUBG game stats, formatted so that each row contains one player's post-game stats. The data comes from matches of all types: solos, duos, squads, and custom; there is no guarantee of there being 100 players per match, nor at most 4 players per group.
 
-The dataset can be downloaded using the Google Drive link as given: 
-https://drive.google.com/drive/folders/18i027LSJMQqZC1Tlj4_Snutkd9NdT51L?usp=sharing
+[The dataset can be downloaded using the Google Drive link given](https://drive.google.com/drive/folders/18i027LSJMQqZC1Tlj4_Snutkd9NdT51L?usp=sharing)
 
 This task is in reference to the **Innomatics Research Labs** and the task was to `Perform an end to end EDA on the dataset`.
